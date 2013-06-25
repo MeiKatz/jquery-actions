@@ -8,7 +8,7 @@ Addon for contextmenus using HTML5 menu[type=context]
     <li data-type="delete">Löschen</li>
     <li data-type="details">Details</li>
   </menu>
-  <div  contextmenu="details"></div>
+  <div contextmenu="details"></div>
 </div>
 ```
 ```javascript
